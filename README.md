@@ -1,5 +1,5 @@
 
-mesh_mhm (Multiscale Hybrid Finite Element method).
+Mesh of the Multiscale Hybrid Finite Element method.
 
 DESCRIPCION:
 ------------
