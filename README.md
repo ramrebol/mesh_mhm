@@ -36,10 +36,10 @@ DESCRIPCION:
          > ifort decimal.f90 util.f90 tipos.f90 loading_data.f90 mesh_mhm.f90 -o mesh_mhm
    (B) Usando el makefila
   
-   -------
+   
   
-   AUTORES: RAMIRO REBOLLEDO
-   -------- Departamento de Ingenieria Matematica & CI2MA
+   AUTOR:   RAMIRO REBOLLEDO
+            Departamento de Ingenieria Matematica & CI2MA
             Universidad de Concepcion
             Casilla 160-C
             Concepcion, CHILE
