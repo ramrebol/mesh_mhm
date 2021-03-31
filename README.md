@@ -35,8 +35,8 @@ DESCRIPCION:
    (A) Basica:
          > ifort decimal.f90 util.f90 tipos.f90 loading_data.f90 mesh_mhm.f90 -o mesh_mhm
    
-   (B) Usando el makefila
-  
+   (B) Usando el makefile
+         > make
    
   
    AUTOR:   RAMIRO REBOLLEDO
